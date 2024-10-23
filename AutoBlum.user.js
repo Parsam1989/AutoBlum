@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         AutoBlum
-// @version      1.0.0
-// @namespace    airdrop&tools
-// @author       airdrop&tools
+// @version      1.0.1
+// @namespace    Parsa_Blum
+// @author       Parsa_m1989
 // @match        https://telegram.blum.codes/*
 // @grant        GM_addStyle
 // @icon         https://i.postimg.cc/yxVWR2tB/121005-66490aa743296.png
