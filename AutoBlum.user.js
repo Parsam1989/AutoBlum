@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AutoBlum
+// @name         AutoBlum 5
 // @version      1.0.1
 // @namespace    https://github.com/Jishan76/AutoBlum
 // @author       Zsan
