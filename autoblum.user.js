@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         AutoBlum
-// @version      1.0.0.1
+// @name         AutoBlum Clicker
+// @version      1.0.1
 // @namespace    zsan
 // @author       zsan
 // @match        https://telegram.blum.codes/*
