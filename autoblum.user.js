@@ -6,8 +6,8 @@
 // @match        https://telegram.blum.codes/*
 // @grant        GM_addStyle
 // @icon         https://i.ibb.co/xXdgxFL/121005-66490aa743296.png
-// @updateURL    https://github.com/Jishan76/AutoBlum/raw//main/AutoBlum.user.js
-// @downloadURL  https://github.com/Jishan76/AutoBlum/raw//main/AutoBlum.user.js
+// @updateURL    https://github.com/Jishan76/AutoBlum/raw//main/autoblum.user.js
+// @downloadURL  https://github.com/Jishan76/AutoBlum/raw//main/autoblum.user.js
 // ==/UserScript==
 
 
