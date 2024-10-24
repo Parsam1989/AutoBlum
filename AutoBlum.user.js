@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AutoBlum
-// @version      1.0.2
+// @version      1.0.1
 // @namespace    https://github.com/Jishan76/AutoBlum
 // @author       Zsan
 // @match        https://telegram.blum.codes/*
